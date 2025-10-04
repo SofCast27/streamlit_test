@@ -1,1 +1,3 @@
-# streamlit_test
+pandas
+scipy
+streamlit # streamlit_test
