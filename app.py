@@ -77,8 +77,3 @@ if start_button:
 # ===============================
 st.subheader("📊 Historial de experimentos")
 st.dataframe(st.session_state['df_experiment_results'], use_container_width=True)
-
-        # Pequeña pausa para animación
-        time.sleep(0.05)
-
-    st.success(f'✅ Media final: {mean:.3f}')
