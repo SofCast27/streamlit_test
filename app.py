@@ -3,7 +3,7 @@ import streamlit as st
 import time
 import pandas as pd
 
-st.header('Lanzar una moneda 🪙')
+st.header('Lanzar una moneda')
 
 # Slider y botón
 number_of_trials = st.slider('¿Número de intentos?', 1, 1000, 10)
