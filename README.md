@@ -10,3 +10,9 @@ https://test-sofcast27.streamlit.app/
 - Streamlit
 - GitHub
 - Scipy
+## Ejecución local
+1. Clonar el repositorio
+2. Instalar dependencias:
+   pip install -r requirements.txt
+3. Ejecutar la aplicación:
+   streamlit run app.py
